@@ -19,29 +19,24 @@ With 5 years of full-stack web development experience for global businesses, I o
     React.js(React-redux, redux/toolkit, Next.js) <br /> 
     Angular.js(NgXs, NgRx, SSR) <br /> 
     Vue.js(Vue.js, Vuetify.js, Nuxt.js, Quasar framework) <br /> 
-    Electron.js
 2. Mobile Development: <br />
-    React Native <br /> 
-    Ionic Framework<br />
     Android <br /> 
-    Flutter <br /> 
     Swift <br />
+    React Native <br /> 
+    Flutter <br /> 
 3. Backend Development: <br />
     Node.js <br /> 
     Express.js <br />
     Java SpringBoot <br />
-    Django <br />
-4. Improving loading time, site stickiness and user engagement <br />
-5. Project Management: <br />
+4. Project Management: <br />
     GitHub <br />
     BitBucket <br />
     GitLab <br /> 
     Devops
-6. Database: <br />
+5. Database: <br />
     MySQL <br />
     MongoDB <br />
     PostgreSQL <br />
-    OracleDB <br />
 
 As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
 I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
