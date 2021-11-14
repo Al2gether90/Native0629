@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Front-End Web Development
 - ⚡ Fun fact: I'm ordinary person who have desire to be a GREAT person!
-- 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
-- 🗒️ Gimme some advice anonymously [here](https://secreto.site/id/24362848)
+- 💬 Ask me about anything 
+- 🗒️ Gimme some advice anonymously
 
 ```js
 // my life cycle
@@ -44,8 +44,7 @@ while (me.isAlive()) {
 
 ## Connect with me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musshal)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat&logo=hackerrank&logoColor=white&color=success)](https://www.hackerrank.com/musshal)
-[![CodersRank](https://img.shields.io/badge/-CodersRank-brightgreen?style=flat&logo=codersrank&logoColor=white&color=4DACB6)](https://www.hackerrank.com/musshal)
+
 
 ---
 
@@ -81,14 +80,6 @@ while (me.isAlive()) {
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=8&margin-w=15&margin-h=10 (https://github.com/ryo-ma/github-profile-trophy)">
 </div>
-
----
-
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### The Song I'm Listening to RN 🎶
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&redirect=true)
 
 ---
 
