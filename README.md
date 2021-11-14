@@ -86,15 +86,6 @@ while (me.isAlive()) {
 }
 ```
 
-<!-- **Languages and Tools:**
-## Language and Tools
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Native0629" />
--->
-
-## Connect with me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Native0629)
-
-
 ---
 
 <h2 align="center">Github stats :bar_chart:</h2>
@@ -132,6 +123,9 @@ while (me.isAlive()) {
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
   </h2>
   <br />
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Native0629)
+
   <div align="left">
     <p>
     Skype - https://join.skype.com/invite/dennis.nordstrom3
