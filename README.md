@@ -97,9 +97,12 @@ while (me.isAlive()) {
 
 ---
 
-<h3 align="center">⚡ Stats ⚡</h3>
+<h2 align="center">Github stats :bar_chart:</h2>
 
-<br />
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Native0629}/count.svg" alt="Native0629 :: Visitor's Count" /></p>
+
 
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
