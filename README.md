@@ -125,4 +125,19 @@ while (me.isAlive()) {
 
 ---
 
-<h3 align="center">👇 Below is My Popular Repositories</h3>
+<div  align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+    &nbsp;*** Connect with me 
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
+  </h2>
+  <br />
+  <div align="left">
+    <p>
+    Skype - https://join.skype.com/invite/dennis.nordstrom3
+    </p>
+    <p>
+    Outlook - <a href="mailto:yongkc0629@outlook.com">yongkc0629@outlook.com</a>
+    </p>
+  </div>
+</div>
