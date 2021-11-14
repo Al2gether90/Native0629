@@ -125,14 +125,4 @@ while (me.isAlive()) {
 
 ---
 
-<h3 align="center">🏆 Trophies 🏆</h3>
-
-<br />
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Native0629&theme=onedark&column=8&margin-w=15&margin-h=10 (https://github.com/ryo-ma/github-profile-trophy)">
-</div>
-
----
-
 <h3 align="center">👇 Below is My Popular Repositories</h3>
