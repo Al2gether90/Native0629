@@ -124,9 +124,9 @@ while (me.isAlive()) {
   </h2>
   <br />
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Native0629)
 
   <div align="left">
+    [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yong-kauchuen-190251216/)
     <p>
     Skype - https://join.skype.com/invite/dennis.nordstrom3
     </p>
