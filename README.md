@@ -1,19 +1,12 @@
 [<img src="https://komarev.com/ghpvc/?username=musshal" alt="Musshal's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
-![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
-
 <p align="center">
 <img alt="GIF" align="left" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="50%" />
-
 </p>
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+software+Developer...;)](https://git.io/typing-svg)
-  
-  
-  
-  
 </h1>
 
 <p align="center">
