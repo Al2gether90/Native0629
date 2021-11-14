@@ -107,7 +107,7 @@ while (me.isAlive()) {
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
   <a href="https://github.com/Native0629">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Native0629&theme=algolia&hide_border=true" align="center" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Native0629&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" align="center" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Native0629&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Native0629&layout=compact&langs_count=8&theme=algolia"/>
   </a>
