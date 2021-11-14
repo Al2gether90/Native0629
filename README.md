@@ -86,6 +86,8 @@ while (me.isAlive()) {
 }
 ```
 
+
+
 ---
 
 <h2 align="center">Github stats :bar_chart:</h2>
@@ -116,6 +118,9 @@ while (me.isAlive()) {
 
 ---
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Native0629)
+
+
 <div  align="center">
   <h2>
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
@@ -123,10 +128,8 @@ while (me.isAlive()) {
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
   </h2>
   <br />
-
-
+</div>
   <div align="left">
-    [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yong-kauchuen-190251216/)
     <p>
     Skype - https://join.skype.com/invite/dennis.nordstrom3
     </p>
@@ -134,4 +137,3 @@ while (me.isAlive()) {
     Outlook - <a href="mailto:yongkc0629@outlook.com">yongkc0629@outlook.com</a>
     </p>
   </div>
-</div>
