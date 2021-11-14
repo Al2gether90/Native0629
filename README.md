@@ -16,18 +16,19 @@
 With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
 
 1. Web Development: <br />
+    PHP(Laravel, CI, Wordpress) <br /> 
     React.js(React-redux, redux/toolkit, Next.js) <br /> 
     Angular.js(NgXs, NgRx, SSR) <br /> 
-    Vue.js(Vue.js, Vuetify.js, Nuxt.js, Quasar framework) <br /> 
+    Vue.js <br /> 
 2. Mobile Development: <br />
     Android <br /> 
     Swift <br />
     React Native <br /> 
     Flutter <br /> 
 3. Backend Development: <br />
+    PHP<br />
     Node.js <br /> 
     Express.js <br />
-    Java SpringBoot <br />
 4. Project Management: <br />
     GitHub <br />
     BitBucket <br />
@@ -109,6 +110,7 @@ while (me.isAlive()) {
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Native0629&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
 
+<br>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Native0629&theme=juicyfresh&no-bg=true" />
 
