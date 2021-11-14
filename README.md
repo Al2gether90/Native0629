@@ -115,16 +115,13 @@ while (me.isAlive()) {
   </a>
 </p>
 
+<p align="centre">
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Native0629&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+</p>
 
-<div align="center">
-  <a href="https://github.com/Native0629/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Native0629&repo=github-readme-stats&theme=material-palenight" alt="Native0629's github stats" align="center" />
-  </a>    
-  <a href="https://github.com/Native0629/Native0629.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Native0629&repo=Native0629.github.io&theme=material-palenight" alt="Native0629's github stats" align="center" />
-  </a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Native0629&theme=material-palenight&hide_border=false" width="100%" alt="Native0629's activity graph" align="center" />
-</div>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Native0629&theme=juicyfresh&no-bg=true" />
 
 ---
 
