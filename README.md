@@ -1,4 +1,4 @@
-[<img src="https://komarev.com/ghpvc/?username=musshal" alt="Musshal's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
+[<img src="https://komarev.com/ghpvc/?username=Native0629" alt="Native0629's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
 <p align="center">
 <img alt="GIF" align="left" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="50%" />
@@ -88,11 +88,11 @@ while (me.isAlive()) {
 
 <!-- **Languages and Tools:**
 ## Language and Tools
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=musshal" />
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Native0629" />
 -->
 
 ## Connect with me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musshal)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Native0629)
 
 
 ---
@@ -107,7 +107,9 @@ while (me.isAlive()) {
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
   <a href="https://github.com/Native0629">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Native0629&theme=algolia&currStreakNum=fe8dab&currStreakLabel=fe8dab" align="center" /> <br />
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Native0629&theme=algolia&currStreakNum=fe8dab&currStreakLabel=fe8dab" align="center" /> 
+    </a><br />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Native0629&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Native0629&layout=compact&langs_count=8&theme=algolia"/>
   </a>
@@ -115,22 +117,13 @@ while (me.isAlive()) {
 
 
 <div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" align="center" />
-    </a><br />
-  <a href="https://github.com/musshal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" width="400px" align="center" />
-  </a>
-  <a href="https://github.com/musshal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&layout=compact&theme=material-palenight" alt="Musshal's github stats" width="334px" align="center" />
-  </a>
-  <a href="https://github.com/musshal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=github-readme-stats&theme=material-palenight" alt="Musshal's github stats" align="center" />
+  <a href="https://github.com/Native0629/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Native0629&repo=github-readme-stats&theme=material-palenight" alt="Native0629's github stats" align="center" />
   </a>    
-  <a href="https://github.com/musshal/musshal.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=musshal.github.io&theme=material-palenight" alt="Musshal's github stats" align="center" />
+  <a href="https://github.com/Native0629/Native0629.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Native0629&repo=Native0629.github.io&theme=material-palenight" alt="Native0629's github stats" align="center" />
   </a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=musshal&theme=material-palenight&hide_border=false" width="100%" alt="Musshal's activity graph" align="center" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Native0629&theme=material-palenight&hide_border=false" width="100%" alt="Native0629's activity graph" align="center" />
 </div>
 
 ---
@@ -140,7 +133,7 @@ while (me.isAlive()) {
 <br />
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=8&margin-w=15&margin-h=10 (https://github.com/ryo-ma/github-profile-trophy)">
+    <img src="https://github-profile-trophy.vercel.app/?username=Native0629&theme=onedark&column=8&margin-w=15&margin-h=10 (https://github.com/ryo-ma/github-profile-trophy)">
 </div>
 
 ---
