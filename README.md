@@ -118,7 +118,6 @@ while (me.isAlive()) {
 
 ---
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Native0629)
 
 
 <div  align="center">
@@ -129,11 +128,15 @@ while (me.isAlive()) {
   </h2>
   <br />
 </div>
-  <div align="left">
-    <p>
-    Skype - https://join.skype.com/invite/dennis.nordstrom3
-    </p>
-    <p>
-    Outlook - <a href="mailto:yongkc0629@outlook.com">yongkc0629@outlook.com</a>
-    </p>
-  </div>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Native0629)
+
+<div align="left">
+  <p>
+  Skype - https://join.skype.com/invite/dennis.nordstrom3
+  </p>
+  <p>
+  Outlook - <a href="mailto:yongkc0629@outlook.com">yongkc0629@outlook.com</a>
+  </p>
+</div>
+  
