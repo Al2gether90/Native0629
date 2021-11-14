@@ -86,10 +86,6 @@ while (me.isAlive()) {
 }
 ```
 
-
-
----
-
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
@@ -129,7 +125,7 @@ while (me.isAlive()) {
   <br />
 </div>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Native0629)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yong-kauchuen-190251216/)
 
 <div align="left">
   <p>
