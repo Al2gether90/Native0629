@@ -104,6 +104,17 @@ while (me.isAlive()) {
 <p align="center"><img src="https://profile-counter.glitch.me/{Native0629}/count.svg" alt="Native0629 :: Visitor's Count" /></p>
 
 
+<h4 align="center">GitHub Statistics:</h4>
+<p align="center">
+<a href="https://github.com/Native0629">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Native0629&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Native0629&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=Native0629&theme=radical&hide_border=true)
+</p>
+
+
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" align="center" />
