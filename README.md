@@ -112,10 +112,6 @@ while (me.isAlive()) {
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Native0629&theme=juicyfresh&no-bg=true" />
 
----
-
-
-
 <div  align="center">
   <h2>
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
