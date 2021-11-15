@@ -1,14 +1,14 @@
 [<img src="https://komarev.com/ghpvc/?username=Native0629" alt="Native0629's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
 <div>
-  <p align="center">
-    <img alt="GIF" align="left" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="50%" />
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" />
+  <p >
+    <img alt="GIF"  src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="50%" />
+    <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" />
   </p>
 
 </div><br>
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
+<h1>Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+software+Developer...;)](https://git.io/typing-svg)
 </h1>
