@@ -1,5 +1,7 @@
 [<img src="https://komarev.com/ghpvc/?username=Native0629" alt="Native0629's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
+<br>
+<br>
 <div align="center" >
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" /> <br>
   <h1>Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
