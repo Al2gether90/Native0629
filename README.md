@@ -1,7 +1,7 @@
-[<img src="https://komarev.com/ghpvc/?username=Native0629" alt="Native0629's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
+[<img src="https://komarev.com/ghpvc/?username=Native0629" alt="Native0629's profile views" align="center" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
 <div>
-    <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" height="200" />
+    <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" height="200" />
 </div><br>
 
 <h1>Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
