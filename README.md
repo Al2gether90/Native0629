@@ -9,8 +9,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+software+Developer...;)](https://git.io/typing-svg)
 
-</div><br>
-
+</div>
 
 With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
 
@@ -82,8 +81,8 @@ Thanks.
 
 while (me.isAlive()) {
     me.eat();
-    me.sleep();
     me.code();
+    me.sleep();
 }
 ```
 
