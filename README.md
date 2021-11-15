@@ -1,15 +1,15 @@
 [<img src="https://komarev.com/ghpvc/?username=Native0629" alt="Native0629's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
 <br>
-<br>
 <div align="center" >
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" /> <br>
-  <h1>Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" /> <br><br>
+
+
+  <h1>Hello Everyone <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+software+Developer...;)](https://git.io/typing-svg)
+
 </div><br>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+software+Developer...;)](https://git.io/typing-svg)
-</h1>
 
 
 With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
@@ -41,7 +41,8 @@ With 5 years of full-stack web development experience for global businesses, I o
 As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
 I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
 
-If my skills match your requirements, please contact me. Thanks.
+If my skills match your requirements, please contact me. 
+Thanks.
 
 ### - Languages and Tools...
 
