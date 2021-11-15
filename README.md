@@ -12,29 +12,29 @@
 
 With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
 
-## 1. Web Development: <br />
-    PHP(Laravel, CI, Wordpress) <br /> 
-    React.js(React-redux, redux/toolkit, Next.js) <br /> 
-    Angular.js(NgXs, NgRx, SSR) <br /> 
-    Vue.js <br /> 
-## 2. Mobile Development: <br />
-    Android <br /> 
-    Swift <br />
-    React Native <br /> 
-    Flutter <br /> 
-## 3. Backend Development: <br />
-    PHP<br />
-    Node.js <br /> 
-    Express.js <br />
-## 4. Project Management: <br />
-    GitHub <br />
-    BitBucket <br />
-    GitLab <br /> 
-    Devops
-## 5. Database: <br />
-    MySQL <br />
-    MongoDB <br />
-    PostgreSQL <br />
+1. Web Development: 
+  PHP(Laravel, CI, Wordpress) <br /> 
+  React.js(React-redux, redux/toolkit, Next.js) <br /> 
+  Angular.js(NgXs, NgRx, SSR) <br /> 
+  Vue.js <br /> 
+2. Mobile Development: <br />
+  Android <br /> 
+  Swift <br />
+  React Native <br /> 
+  Flutter <br /> 
+3. Backend Development: <br />
+  PHP<br />
+  Node.js <br /> 
+  Express.js <br />
+4. Project Management: <br />
+  GitHub <br />
+  BitBucket <br />
+  GitLab <br /> 
+  Devops
+5. Database: <br />
+  MySQL <br />
+  MongoDB <br />
+  PostgreSQL <br />
 
 As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
 I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
