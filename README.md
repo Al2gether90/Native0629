@@ -1,10 +1,10 @@
-[<img src="https://komarev.com/ghpvc/?username=Native0629" alt="Native0629's profile views" align="center" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
+[<img src="https://komarev.com/ghpvc/?username=Native0629" alt="Native0629's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
-<div>
-    <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" height="200" />
+<div align="center" >
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" /> <br>
+  <h1>Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 </div><br>
 
-<h1>Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+software+Developer...;)](https://git.io/typing-svg)
 </h1>
@@ -12,26 +12,26 @@
 
 With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
 
-1. Web Development: <br />
+## 1. Web Development: <br />
     PHP(Laravel, CI, Wordpress) <br /> 
     React.js(React-redux, redux/toolkit, Next.js) <br /> 
     Angular.js(NgXs, NgRx, SSR) <br /> 
     Vue.js <br /> 
-2. Mobile Development: <br />
+## 2. Mobile Development: <br />
     Android <br /> 
     Swift <br />
     React Native <br /> 
     Flutter <br /> 
-3. Backend Development: <br />
+## 3. Backend Development: <br />
     PHP<br />
     Node.js <br /> 
     Express.js <br />
-4. Project Management: <br />
+## 4. Project Management: <br />
     GitHub <br />
     BitBucket <br />
     GitLab <br /> 
     Devops
-5. Database: <br />
+## 5. Database: <br />
     MySQL <br />
     MongoDB <br />
     PostgreSQL <br />
