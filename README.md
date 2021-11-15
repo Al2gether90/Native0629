@@ -1,11 +1,7 @@
 [<img src="https://komarev.com/ghpvc/?username=Native0629" alt="Native0629's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
 <div>
-  <!-- <p> -->
-    <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" width="45%" />
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" height="200" />
-  <!-- </p> -->
-
+    <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" height="200" />
 </div><br>
 
 <h1>Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
