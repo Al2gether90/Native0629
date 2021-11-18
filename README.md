@@ -9,8 +9,8 @@
 
 </div>
 
-With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
-
+With 6 years of full-stack web and mobile app development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
+<!-- 
 1. Web Development: 
   PHP(Laravel, CI, Wordpress) <br /> 
   React.js(React-redux, redux/toolkit, Next.js) <br /> 
@@ -33,7 +33,7 @@ With 5 years of full-stack web development experience for global businesses, I o
 5. Database: <br />
   MySQL <br />
   MongoDB <br />
-  PostgreSQL <br />
+  PostgreSQL <br /> -->
 
 <!-- <table style="border-size:0px">
   <tr >
