@@ -3,10 +3,7 @@
 <br>
 <div align="center" >
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" /> <br><br>
-
-
   <h1>Hello Everyone <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
-
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+software+Developer...;)](https://git.io/typing-svg)
 
 </div>
@@ -37,6 +34,19 @@ With 5 years of full-stack web development experience for global businesses, I o
   MongoDB <br />
   PostgreSQL <br />
 
+<!-- <table style="border-size:0px">
+  <tr >
+    <td style="border: none; text-align: center;"><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="90">React js</td>    
+    <td style="border: none;text-align: center;"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="90"> Node.js</td>
+    <td style="border: none; text-align: center;"><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="90"> MySQL</td>            
+    <td style="border: none; text-align: center;"><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="90"> C/C++ </td>
+    <td style="border: none; text-align: center;"><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"> Go</td>   
+      <td style="border: none; text-align: center;"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="90"> Python </td>
+      <td style="border: none; text-align: center;"><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="90"> Laravel </td>
+    <td style="border: none; text-align: center;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td>                        
+  </tr>
+</table> -->
+
 As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
 I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
 
@@ -47,30 +57,34 @@ Thanks.
 
 <p align="center">
 
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+  [![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+  [![IOS](https://img.shields.io/badge/-IOS-1572b6?style=flat&logo=ios&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+  [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://reactnative.dev)](https://reactnative.dev/) 
+  [![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&link=https://flutter.dev)](https://flutter.dev) 
+
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
   
-  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-  [![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-  [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-  [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-  
+  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://reactjs.org/)](https://reactjs.org/) 
+  [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
   [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+
+
   [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
   [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
   [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+  [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
   
+
   [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
   [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
   [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
-  
-  [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-  [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
   [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-  [![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
+  [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+
 
 </p>
 
