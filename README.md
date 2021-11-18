@@ -3,9 +3,10 @@
 <br>
 <div align="center" >
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="200" /> <br><br>
+  <h1>Hello Everyone <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+software+Developer...;)](https://git.io/typing-svg)
-  <h1></h1>
+
 </div>
 
 With 5 years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
@@ -112,7 +113,9 @@ while (me.isAlive()) {
   <a href="https://github.com/Native0629">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Native0629&theme=algolia&currStreakNum=fe8dab&currStreakLabel=fe8dab" align="center" /> 
-    </a><br />
+    </a>
+    <br />
+    <br />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Native0629&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Native0629&layout=compact&langs_count=8&theme=algolia"/>
   </a>
