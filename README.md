@@ -148,13 +148,11 @@ while (me.isAlive()) {
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yong-kauchuen-190251216/)
 [![FaceBook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=FaceBook&logoColor=white)](https://www.facebook.com/yong.kahchuen.1/)
-
-<div align="left">
+[![Skype](https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/dennis.nordstrom3)
+[![Gmail](https://img.shields.io/badge/-Gmail-4285F4?style=flat&logo=Gmail&logoColor=white)](mailto:need91dev@gmail.com)
+<!-- <div align="left">
   <p>
-  Skype ID - dennis.nordstrom3
+  Gmail - <a href="mailto:need91dev@gmail.com">need91dev@gmail.com</a>
   </p>
-  <p>
-  Outlook - <a href="mailto:yongkc0629@outlook.com">yongkc0629@outlook.com</a>
-  </p>
-</div>
+</div> -->
   
