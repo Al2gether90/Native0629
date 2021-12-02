@@ -137,19 +137,7 @@ while (me.isAlive()) {
   [![Metrics](https://metrics.lecoq.io/Native0629?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Native0629)
 </div> -->
 
-<div  align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-    &nbsp;&nbsp;  Connect with me 
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
-  </h2>
-  <br />
-</div>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yong-kauchuen-190251216/)
-[![FaceBook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=FaceBook&logoColor=white)](https://www.facebook.com/yong.kahchuen.1/)
-[![Skype](https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/dennis.nordstrom3)
-[![Gmail](https://img.shields.io/badge/-Gmail-4285F4?style=flat&logo=Gmail&logoColor=white)](mailto:need91dev@gmail.com)
 <!-- <div align="left">
   <p>
   Gmail - <a href="mailto:need91dev@gmail.com">need91dev@gmail.com</a>
