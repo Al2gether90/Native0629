@@ -56,7 +56,8 @@ I enjoy the client-facing role and working closely with members to produce high-
 If my skills match your requirements, please contact me. 
 Thanks.
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+### - Languages and Tools...
+
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
